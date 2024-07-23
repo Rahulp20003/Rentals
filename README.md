@@ -1,6 +1,6 @@
 ## Rentals
 
-manage rental 
+manage reantals in frappe
 
 #### License
 

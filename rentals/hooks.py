@@ -1,7 +1,7 @@
 app_name = "rentals"
 app_title = "Rentals"
 app_publisher = "rahul"
-app_description = "manage rental "
+app_description = "manage reantals in frappe"
 app_email = "rahul@gmail.com"
 app_license = "mit"
 # required_apps = []
